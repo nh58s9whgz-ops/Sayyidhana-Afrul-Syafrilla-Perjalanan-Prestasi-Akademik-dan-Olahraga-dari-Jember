@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sayyidhana Afrul Syafrilla | Profil Resmi</title>
+
+<meta name="description" content="Profil resmi Sayyidhana Afrul Syafrilla, mahasiswa Fakultas Hukum Universitas Jember, atlet kickboxing dan pecinta sepak bola.">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f5f7fa;
+    color:#333;
+}
+
+header{
+    background:linear-gradient(135deg,#0f172a,#1e293b);
+    color:white;
+    text-align:center;
+    padding:80px 20px;
+}
+
+header h1{
+    font-size:3rem;
+}
+
+header p{
+    margin-top:10px;
+    font-size:1.2rem;
+}
+
+.container{
+    width:90%;
+    max-width:1100px;
+    margin:auto;
+    padding:40px 0;
+}
+
+.card{
+    background:white;
+    border-radius:15px;
+    padding:30px;
+    margin-bottom:25px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+h2{
+    color:#0f172a;
+    margin-bottom:15px;
+}
+
+ul{
+    padding-left:20px;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    background:#0f172a;
+    color:white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Sayyidhana Afrul Syafrilla</h1>
+    <p>Mahasiswa Fakultas Hukum | Atlet Kickboxing | Pecinta Sepak Bola</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>Tentang Saya</h2>
+<p>
+Saya adalah Sayyidhana Afrul Syafrilla, lahir pada tahun 2006 di Jember, Jawa Timur.
+Sejak kecil saya aktif dalam bidang akademik maupun olahraga. Saya memiliki minat
+besar dalam pengembangan diri, kepemimpinan, hukum, dan olahraga prestasi.
+</p>
+</div>
+
+<div class="card">
+<h2>Perjalanan Akademik</h2>
+<p>
+Sejak TK hingga SD saya aktif mengikuti berbagai perlombaan IPA dan sains.
+Pengalaman tersebut membantu membentuk pola pikir kritis, disiplin, dan rasa ingin tahu yang tinggi.
+Saat ini saya melanjutkan pendidikan sebagai mahasiswa Fakultas Hukum Universitas Jember.
+</p>
+</div>
+
+<div class="card">
+<h2>Perjalanan Sepak Bola</h2>
+<p>
+Saya mulai menekuni sepak bola sejak duduk di bangku kelas 2 SD sekitar tahun 2013–2014.
+Melalui olahraga ini saya belajar mengenai kerja sama tim, disiplin, sportivitas,
+dan semangat untuk terus berkembang.
+</p>
+</div>
+
+<div class="card">
+<h2>Prestasi Kickboxing</h2>
+<p>
+Pada masa sekolah menengah saya mulai aktif menekuni olahraga kickboxing di kelas 60 kg.
+Melalui latihan yang konsisten dan dedikasi tinggi, saya berhasil meraih kemenangan
+dalam 15 pertandingan yang saya ikuti.
+</p>
+</div>
+
+<div class="card">
+<h2>Profil Singkat</h2>
+<ul>
+<li>Nama: Sayyidhana Afrul Syafrilla</li>
+<li>Tahun Lahir: 2006</li>
+<li>Asal: Jember, Jawa Timur</li>
+<li>Pendidikan: Fakultas Hukum Universitas Jember</li>
+<li>Bidang Akademik: IPA dan Sains</li>
+<li>Olahraga: Sepak Bola & Kickboxing</li>
+<li>Kelas Kickboxing: 60 Kg</li>
+<li>Prestasi Kickboxing: 15 Kemenangan</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Moto Hidup</h2>
+<p>
+"Kerja keras, disiplin, dan konsistensi adalah fondasi utama untuk mencapai kesuksesan."
+</p>
+</div>
+
+</div>
+
+<footer>
+© 2026 Sayyidhana Afrul Syafrilla | All Rights Reserved
+</footer>
+
+</body>
+</html>
